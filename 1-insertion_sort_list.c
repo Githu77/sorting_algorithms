@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
-* insertion_sort_list - uses 
+* insertion_sort_list - uses swapping of elements to sort them
 * @list: input list to sort
 *
 *
